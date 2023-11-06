@@ -1,4 +1,6 @@
 # Project Title: Automated Twitter Complaint Bot for Efficient Internet Provider Grievance Handling
+![Repo Cover](https://github.com/Manuel-7tin/Twitter_complain_bot/blob/main/repo_cover_twitter%20bot.jpg)
+
 
 Welcome to the Bot for Efficient Internet Provider Grievance Handling, in this project, I engineered a robust automated Twitter complaint bot, designed to enhance the process of addressing internet speed issues with service providers. The bot leverages various libraries and modules to deliver a streamlined user experience.
 
